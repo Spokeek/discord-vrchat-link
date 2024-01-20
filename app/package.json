@@ -16,7 +16,7 @@
     "@typescript-eslint/parser": "^6.19.0",
     "eslint": "^8.56.0",
     "eslint-plugin-vue": "^9.20.1",
-    "nuxt": "^3.9.3",
+    "nuxt": "^3.8.2",
     "typescript": "^5.3.3",
     "vue": "^3.4.14",
     "vue-router": "^4.2.5",
